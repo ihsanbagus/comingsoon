@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ihsanbagus.deeplink",
+    "sha256_cert_fingerprints":
+    ["42:55:F4:2C:10:1A:D0:2D:DC:75:0E:7E:4E:6A:0D:64:B4:5A:16:BC:FF:D6:E9:66:B8:2F:B4:06:47:D1:BA:57"]
+  }
+}]
